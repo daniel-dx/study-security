@@ -42,6 +42,10 @@ add_header Content-Security-Policy "script-src 'self' cdn.jsdelivr.net";
 
 确保 script 类型资源的 MIME 类型为 javascript
 
+## add_header Referrer-Policy
+
+什么情况下才发送 referer 请求头
+
 
 
 
